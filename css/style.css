@@ -1,0 +1,53 @@
+.Lorem1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+img {
+    width: 100%;
+}
+
+#Lorem2 {
+    margin-top: 50px;
+}
+
+.Muestra {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.Muestra2 {
+    text-align: center;
+}
+
+.Plan {
+    margin-top: 20px;
+}
+
+#img3 {
+    width: 40%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#p1 {
+    width: 50%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#img4 {
+    width: 20%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#p2 {
+    width: 60%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.Muestra3 {
+    margin-top: 20px;
+}
